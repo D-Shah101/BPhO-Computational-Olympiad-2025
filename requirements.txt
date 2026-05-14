@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+matplotlib
+PyQt6
+nbformat
+ipykernel
+ipympl
+statsmodels
+pillow
